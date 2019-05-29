@@ -1,0 +1,2 @@
+# alocadorArtigos
+Algoritmo genético 
